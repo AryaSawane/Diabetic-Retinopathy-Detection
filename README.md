@@ -24,7 +24,4 @@ This project helps in early screening of diabetes-related eye disease through au
 - **SQLite** – Database  
 - **NumPy / Pandas / OpenCV** – Image processing  
 
----
-
-## 📁 Project Structure
-
+--
