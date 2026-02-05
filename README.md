@@ -11,7 +11,6 @@ This project helps in early screening of diabetes-related eye disease through au
 - 🧠 Deep Learning model for DR detection
 - 📊 Instant prediction results
 - 🌐 Interactive web app built with **Streamlit**
-- 🗂 Stores patient records using a local database
 - 💡 Provides basic remedies and guidance
 
 ---
@@ -24,4 +23,4 @@ This project helps in early screening of diabetes-related eye disease through au
 - **SQLite** – Database  
 - **NumPy / Pandas / OpenCV** – Image processing  
 
---
+
