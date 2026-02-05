@@ -1,18 +1,30 @@
-# Diabetic Retinopathy Detection (CNN + EfficientNet)
+# 🩺 Diabetic Retinopathy Detection using Deep Learning
 
-## Overview
-This project detects diabetic retinopathy using deep learning.
+A web-based AI system that detects **Diabetic Retinopathy** from retinal (fundus) images using Deep Learning.  
+This project helps in early screening of diabetes-related eye disease through automated image analysis.
 
-## Tech Stack
-- Python
-- TensorFlow / Keras
-- EfficientNet-B0
-- Streamlit
+---
 
-## How to Run
-pip install -r requirements.txt
-streamlit run app.py
+## 🚀 Features
 
-## Model Weights
-Download model weights: (Google Drive link)
+- 📷 Upload retinal fundus images
+- 🧠 Deep Learning model for DR detection
+- 📊 Instant prediction results
+- 🌐 Interactive web app built with **Streamlit**
+- 🗂 Stores patient records using a local database
+- 💡 Provides basic remedies and guidance
+
+---
+
+## 🧠 Tech Stack
+
+- **Python**
+- **Streamlit** – Web interface  
+- **TensorFlow / Keras** – Deep learning model  
+- **SQLite** – Database  
+- **NumPy / Pandas / OpenCV** – Image processing  
+
+---
+
+## 📁 Project Structure
 
